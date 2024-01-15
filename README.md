@@ -1,3 +1,4 @@
 # Everything about Meerkats
 
-[Lebensraum](Lebensraum.md)
+- [Merkmale](merkmale.md)
+- [Lebensraum](Lebensraum.md)
